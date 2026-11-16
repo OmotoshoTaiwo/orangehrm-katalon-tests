@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Id0295</name>
+   <tag></tag>
+   <elementGuidId>c233c7b4-5f4f-43b4-bd06-d5add1c92353</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --mobile ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card-header-slot ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-table-card-cell ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.--mobile:nth-child(2) .card-header-slot .oxd-table-card-cell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>74346af8-3cf7-45e8-a591-88d8257c3cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-table-card-cell</value>
+      <webElementGuid>930819a1-e7a9-4ddb-89de-a86432610da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Id0295</value>
+      <webElementGuid>46e3b200-e575-4608-8831-c8e1b804eb0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-09697b85029158f6367695c7a7e0c57d</value>
+      <webElementGuid>e6247d81-9251-4a32-aad4-3e0956915ea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --mobile ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card-header-slot ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-table-card-cell ')]</value>
+      <webElementGuid>c52f20c3-2077-4912-9600-8e6c466473a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --mobile ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card-header-slot ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-table-card-cell ')]</value>
+      <webElementGuid>477a7c0a-c6af-457e-a013-aece757df64d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Id0295' or . = 'Id0295')]</value>
+      <webElementGuid>f7297d04-6f96-49ad-884f-0e00d951e2f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

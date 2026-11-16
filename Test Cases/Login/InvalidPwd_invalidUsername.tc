@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify login fails when both username and password are invalid</description>
+   <name>InvalidPwd_invalidUsername</name>
+   <tag>TC_004</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb74b7d5-2361-498a-87ba-46a0ac79628c</testCaseGuid>
+</TestCaseEntity>

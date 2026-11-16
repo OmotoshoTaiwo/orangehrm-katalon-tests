@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_profile picture</name>
+   <tag></tag>
+   <elementGuidId>81f889d6-0283-4c9a-9e49-fd6bf4bbfbb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' employee-image ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.employee-image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a7fa8cd7-9be9-45ba-8e26-8108285f0b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>profile picture</value>
+      <webElementGuid>403c6460-7d5b-4bae-be44-0419f13d7ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>employee-image</value>
+      <webElementGuid>ac67de85-0c34-4a87-a049-abd016524bb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/web/images/default-photo.png</value>
+      <webElementGuid>e0f82b5f-f8f7-4a3d-b56d-61bc0cf7ee53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-164140df6c6927df71fd63d0be276ecf</value>
+      <webElementGuid>87b64dae-3eb2-4a34-a45b-7e9f98f37d24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' employee-image ')]</value>
+      <webElementGuid>f2f54bf8-a05c-41cd-9ed0-d2aa2e4f6ca2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' employee-image ')]</value>
+      <webElementGuid>2fb3c784-0ad8-43d9-b060-2a2d3108f26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'profile picture' and @src = '/web/images/default-photo.png']</value>
+      <webElementGuid>18438eeb-79c6-4c55-aa2e-aca98d98ab14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

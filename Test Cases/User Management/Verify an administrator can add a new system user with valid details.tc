@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify an administrator can add a new system user with valid details</description>
+   <name>Verify an administrator can add a new system user with valid details</name>
+   <tag>TC-049</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3509a640-b30e-416d-a14c-f73d428fbeeb</testCaseGuid>
+</TestCaseEntity>

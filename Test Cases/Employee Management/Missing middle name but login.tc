@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system prevents adding an employee when Last Name is left blank</description>
+   <name>Missing middle name but login</name>
+   <tag>TC-020</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>acb44349-98a4-4e6f-b30c-ede170e9c84b</testCaseGuid>
+</TestCaseEntity>

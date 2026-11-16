@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify an administrator can view the list of system users</description>
+   <name>Verify user login as admin and access to user mangerment</name>
+   <tag>TC-048</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef94bfa3-d69b-458f-b0bb-0b07e1bd917e</testCaseGuid>
+</TestCaseEntity>

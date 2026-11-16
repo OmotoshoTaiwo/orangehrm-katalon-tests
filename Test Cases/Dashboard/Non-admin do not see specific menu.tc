@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify a non-admin (ESS) user does not see admin-specific menu items</description>
+   <name>Non-admin do not see specific menu</name>
+   <tag>TC_014</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a69fdfa-f2b1-4a5c-a325-d12b346510da</testCaseGuid>
+</TestCaseEntity>

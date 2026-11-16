@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_30</name>
+   <tag></tag>
+   <elementGuidId>6d5b366f-6917-47d9-b2ee-e354a345f225</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-calendar-date-wrapper:nth-child(30) .oxd-calendar-date</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-date-wrapper ') and (position() = 30)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-date ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>85f89d41-0aeb-440e-b3ef-cb03b88729bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-calendar-date</value>
+      <webElementGuid>7ed4961a-5143-417c-88b6-f71da337b7e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>bfd43818-b886-472c-ad28-01e6d9f6b50f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ce7209cc8b2d99df7b019716f7a872c4</value>
+      <webElementGuid>ae67e976-7527-44b6-938e-8de18a10719e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-date-wrapper ') and (position() = 30)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-date ')]</value>
+      <webElementGuid>40228c2a-5a90-48da-8037-a1d74e96bfcc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-date-wrapper ') and (position() = 30)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-date ')]</value>
+      <webElementGuid>d7c45254-6057-4f58-b3ff-659aad52e199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '30' or . = '30')]</value>
+      <webElementGuid>3b6033a3-7176-47c7-91ba-04ff9c508c00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

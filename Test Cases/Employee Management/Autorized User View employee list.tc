@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify an authorized user can view the list of employees</description>
+   <name>Autorized User View employee list</name>
+   <tag>TC-017</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d974226-79b7-4c6c-8be7-66e8635b18de</testCaseGuid>
+</TestCaseEntity>

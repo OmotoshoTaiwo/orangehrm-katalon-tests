@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_23</name>
+   <tag></tag>
+   <elementGuidId>154f3194-f6ce-4745-a20d-198a2e26f8ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.--today.oxd-calendar-date</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --today ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-date ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4854b5f3-141a-4411-a99a-1a2e1c24f250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-calendar-date --selected --today</value>
+      <webElementGuid>6ab79b5b-0605-4ac7-a382-9c1dd2a65e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>23</value>
+      <webElementGuid>a55eac9f-8776-4d0f-aa59-34dbd16f2271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c22d72c8ea9ac451357ab9db7c286bbe</value>
+      <webElementGuid>3fb27e46-760c-4689-ad25-7fa3f0f5b628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --today ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-date ')]</value>
+      <webElementGuid>231699b3-c9e7-4bbe-baa3-4eb7e0d74381</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --today ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-date ')]</value>
+      <webElementGuid>c6f65df9-be92-4ea4-8dd6-0908d0147a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '23' or . = '23')]</value>
+      <webElementGuid>5e680f1b-998b-4b0f-b485-55157d824e27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system prevents creating a duplicate username</description>
+   <name>Verify system prevents creating a duplicate username</name>
+   <tag>TC-051</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91caf8c0-24ea-48a1-8fcb-ccd726e96d7d</testCaseGuid>
+</TestCaseEntity>

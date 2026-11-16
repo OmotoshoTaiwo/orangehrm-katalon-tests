@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Maintenance</name>
+   <tag></tag>
+   <elementGuidId>4bc0ea65-97cc-4964-b48c-4c43eb929638</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/web/index.php/maintenance/viewMaintenanceModule']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/web\/index\.php\/maintenance\/viewMaintenanceModule&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2cfad250-ec6a-4462-88c5-b6106c1e7a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-main-menu-item</value>
+      <webElementGuid>8296a46a-c36b-4713-8f89-b8853a4768f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/index.php/maintenance/viewMaintenanceModule</value>
+      <webElementGuid>7550fb86-f1c6-4c30-b290-57b2ed9aa97d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maintenance</value>
+      <webElementGuid>0cd18e68-f407-44dc-ad21-870f482371e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7fed2d3f43217afe25063ceb3f5eff8e</value>
+      <webElementGuid>b5f8ccf6-ea03-442e-ad98-5c8c1a6facaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '/web/index.php/maintenance/viewMaintenanceModule']</value>
+      <webElementGuid>7114c818-4412-4c8b-8ef1-56b50beba686</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/web/index.php/maintenance/viewMaintenanceModule']</value>
+      <webElementGuid>522cb056-d8c1-4a7d-9ed2-1a7f60e9cd55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/index.php/maintenance/viewMaintenanceModule' and (text() = 'Maintenance' or . = 'Maintenance')]</value>
+      <webElementGuid>d29f583b-637c-4a5c-a035-08cd8aa13023</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

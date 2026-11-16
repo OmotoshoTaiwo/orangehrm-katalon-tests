@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_oxd-icon-button</name>
+   <tag></tag>
+   <elementGuidId>dae4d5a1-7380-4cc9-9092-dec99b925caa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-icon-button ') and (@type = 'button') and (@data-v-f5c763eb = '') and (@data-v-b4b62742 = '')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.oxd-icon-button[type=&quot;button&quot;][data-v-f5c763eb=&quot;&quot;][data-v-b4b62742=&quot;&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d1407f8d-b11e-4aa2-aa0d-b9c2a150f511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon-button</value>
+      <webElementGuid>2ae54869-9351-4394-bfc4-d8421d460d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1295f74d-ef0a-4627-9749-1002c0b0c030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-678a6d3af50b7f77ad9d7eac0e21696d</value>
+      <webElementGuid>93712a90-f5b9-4f1d-9a87-b47f493254eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-icon-button ') and (@type = 'button') and (@data-v-f5c763eb = '') and (@data-v-b4b62742 = '')]</value>
+      <webElementGuid>79c9d532-878a-4b33-9c9b-f06d028f349b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-icon-button ') and (@type = 'button') and (@data-v-f5c763eb = '') and (@data-v-b4b62742 = '')]</value>
+      <webElementGuid>cf5123e9-57d9-48e7-bf4b-ef1de7016aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>f585c1a9-d8f0-47e3-a861-bf985230b10b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

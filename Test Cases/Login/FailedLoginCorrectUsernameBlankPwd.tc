@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify login fails with a correct username but blank password</description>
+   <name>FailedLoginCorrectUsernameBlankPwd</name>
+   <tag>TC_008</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65614ab9-b0aa-4714-8f0b-8c736c499e02</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the search field handles special characters without an application error</description>
+   <name>Verify field handles special characters without an application error</name>
+   <tag>TC-037</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1a45c03-9b04-4fe8-932c-027a4bfe42eb</testCaseGuid>
+</TestCaseEntity>

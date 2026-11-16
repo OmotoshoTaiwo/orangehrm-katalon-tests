@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify search results display correctly for a partial name match</description>
+   <name>Verify_search_result display correctly all match</name>
+   <tag>TC-036</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>23fdfdd4-34df-4e91-a033-9b1643447de6</testCaseGuid>
+</TestCaseEntity>

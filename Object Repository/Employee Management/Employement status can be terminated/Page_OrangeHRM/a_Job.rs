@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Job</name>
+   <tag></tag>
+   <elementGuidId>a1e7034b-dab3-4043-9b75-8b8bc4ea2ea2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-tabs-wrapper ') and (position() = 6)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-tabs-item ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.orangehrm-tabs-wrapper:nth-child(6) .orangehrm-tabs-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1ebf6d6b-63b8-43f8-83d5-d4a1170467b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-tabs-item</value>
+      <webElementGuid>5d40c632-e4cb-4835-847d-2bf0c001923a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/index.php/pim/viewJobDetails/empNumber/128</value>
+      <webElementGuid>8ba52e72-e539-4b14-be7a-c20673b4cbf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Job</value>
+      <webElementGuid>684ec0aa-2d88-4fdc-8ea3-34ba41853741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e0b7edf1b7d6dca3a75012b4a4da7568</value>
+      <webElementGuid>fbcf322c-06b2-46b3-bb32-dd62e4f3a626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-tabs-wrapper ') and (position() = 6)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-tabs-item ')]</value>
+      <webElementGuid>f797997a-8a59-42bc-a7dd-d4250ac60d06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-tabs-wrapper ') and (position() = 6)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-tabs-item ')]</value>
+      <webElementGuid>fd0fd21f-7e07-4450-bafe-e7a851a69a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/index.php/pim/viewJobDetails/empNumber/128' and (text() = 'Job' or . = 'Job')]</value>
+      <webElementGuid>965ed082-855f-42b6-8707-f9cda156c21e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

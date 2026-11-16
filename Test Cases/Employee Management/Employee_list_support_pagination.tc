@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the employee list supports pagination when records exceed the page limit</description>
+   <name>Employee_list_support_pagination</name>
+   <tag>TC-027</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>091217d8-aaeb-49b4-aa01-f5320ee82ccc</testCaseGuid>
+</TestCaseEntity>

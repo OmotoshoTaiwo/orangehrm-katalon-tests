@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_oxd-icon-button</name>
+   <tag></tag>
+   <elementGuidId>b991314d-cc13-455a-a036-44376d50e7c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-calendar-header .oxd-icon-button:nth-child(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-header ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-icon-button ') and (position() = 3)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6c16c0b6-7931-42a1-b1da-2e59cea00b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon-button</value>
+      <webElementGuid>88d23b6b-760d-445f-8610-385f495dc43e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8fe37e72-fed4-4eab-bc28-e19416a45835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-145253acebeba7dc6b4e5baa0eba3915</value>
+      <webElementGuid>a3f6996a-414f-40f0-8844-69377a2673c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-header ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-icon-button ') and (position() = 3)]</value>
+      <webElementGuid>23d50755-5151-4b6c-9269-8a476bad1ba1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-header ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-icon-button ') and (position() = 3)]</value>
+      <webElementGuid>d6964c6b-4799-4953-9381-d99bab45b8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>8ed3aa21-5a54-42ac-9d45-f35af1292277</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

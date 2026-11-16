@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the Dashboard displays widgets relevant to the authenticated user</description>
+   <name>Dashboard_Widget</name>
+   <tag>TC-012</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6437ea3e-6412-474a-a78e-8feac60bcf24</testCaseGuid>
+</TestCaseEntity>

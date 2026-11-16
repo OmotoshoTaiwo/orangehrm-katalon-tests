@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify clearing search filters resets the employee list to show all records</description>
+   <name>Verify clearing search returns the employee to number count</name>
+   <tag>TC-040</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>acb9e849-a644-4227-8c7d-a79aa70959ba</testCaseGuid>
+</TestCaseEntity>

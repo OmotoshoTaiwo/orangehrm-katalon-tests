@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify an administrator can edit an existing user's role or status</description>
+   <name>Verify an administrator can edit an existing user role or status</name>
+   <tag>TC-054</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1e18001-3b94-4523-bcee-bbfbdb7fbad2</testCaseGuid>
+</TestCaseEntity>

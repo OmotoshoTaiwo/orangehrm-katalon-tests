@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Required</name>
+   <tag></tag>
+   <elementGuidId>91d29e82-e373-462c-aeec-bdabe4f3a38f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Required' or . = 'Required')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input-field-error-message ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.oxd-text.oxd-input-field-error-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ba835b64-3d18-459e-83a0-d970643e01d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--span oxd-input-field-error-message oxd-input-group__message</value>
+      <webElementGuid>f843b567-d95f-4218-8f80-9b9f33c5ada7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Required</value>
+      <webElementGuid>f053252e-ef48-419e-826e-fd2ec32f29bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2c8136d5a311dad299903f2ea704eafb</value>
+      <webElementGuid>30b6f0e6-6a5a-4587-a60f-d3c069ea7dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input-field-error-message ')]</value>
+      <webElementGuid>d99aae73-131b-41b6-8338-fa473b09d459</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input-field-error-message ')]</value>
+      <webElementGuid>511bc9a5-a968-4650-a9ac-22cbe2e3c70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Required' or . = 'Required')]</value>
+      <webElementGuid>4fcbdef7-e1e9-4e59-ac12-b79760b0aad3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

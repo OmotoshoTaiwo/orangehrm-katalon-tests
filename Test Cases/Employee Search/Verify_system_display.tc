@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system displays an appropriate message when a search returns no results</description>
+   <name>Verify_system_display</name>
+   <tag>TC-035</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab06c047-c46e-4f89-81db-ebc0e6846ac8</testCaseGuid>
+</TestCaseEntity>

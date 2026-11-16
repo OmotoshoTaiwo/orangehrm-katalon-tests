@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify a user can submit a leave application with valid data</description>
+   <name>Verify a user can submit a leave application with valid data</name>
+   <tag>TC-042</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96459976-c59f-4d00-b3aa-7b393134ccce</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system prevents adding an employee when First Name is left blank</description>
+   <name>Missing first name decline in adding staff</name>
+   <tag>TC-019</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4056d4a-8352-417b-af36-d7a7250ca4e2</testCaseGuid>
+</TestCaseEntity>

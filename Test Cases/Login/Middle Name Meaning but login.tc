@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system prevents adding an employee when First Name is left blank</description>
+   <name>Middle Name Meaning but login</name>
+   <tag>TC-019</tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1329d8f1-0f5f-46b1-a44c-f3b0f893077d</testCaseGuid>
+</TestCaseEntity>

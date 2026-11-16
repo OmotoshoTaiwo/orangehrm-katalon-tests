@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify combined search using multiple filter criteria returns correctly filtered results</description>
+   <name>Verify combined search using filter</name>
+   <tag>TC-039</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3507556e-96f9-428a-a855-b7fd6e147755</testCaseGuid>
+</TestCaseEntity>

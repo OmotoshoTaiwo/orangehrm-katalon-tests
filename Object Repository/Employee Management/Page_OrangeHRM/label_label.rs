@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_label</name>
+   <tag></tag>
+   <elementGuidId>b51b40ce-3f55-4077-90d9-cf3253cb397c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@data-v-8e4757dc = '']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label[data-v-8e4757dc=&quot;&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>08287e68-55ac-4d1a-8c72-d1e694315149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-728c1a9713ad2d384703fd4a8e66fe27</value>
+      <webElementGuid>e8e1463a-da79-40fd-842d-ee300be8f400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@data-v-8e4757dc = '']</value>
+      <webElementGuid>98ee0366-9498-4273-ac8e-e0b9ae55fbcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@data-v-8e4757dc = '']</value>
+      <webElementGuid>16cff137-9cc8-4d83-a8fe-87e75fae44a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

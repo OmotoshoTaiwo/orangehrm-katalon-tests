@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system prevents a leave application where the end date precedes the start date</description>
+   <name>Verify system prevents leave application wrong date_1</name>
+   <tag>TC-43</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dab68a19-ea1e-412f-adca-02001acecd7e</testCaseGuid>
+</TestCaseEntity>

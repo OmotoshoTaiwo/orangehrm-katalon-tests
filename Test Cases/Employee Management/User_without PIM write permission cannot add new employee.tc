@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify a user without PIM write permission cannot add a new employee</description>
+   <name>User_without PIM write permission cannot add new employee</name>
+   <tag>TC-028</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d9119991-a2f7-4880-84ac-971d09ec25ec</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify validation message when the username field is empty</description>
+   <name>Validation_Message_EmptyUsername</name>
+   <tag>TS-005</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee510b1f-2d4b-41a2-95c5-2e9313ff3827</testCaseGuid>
+</TestCaseEntity>

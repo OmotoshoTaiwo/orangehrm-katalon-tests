@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify canceling an in-progress 'Add Employee' action discards unsaved data</description>
+   <name>Verify canceling Add employee action</name>
+   <tag>TC-032</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5125fe3-917f-438e-97ca-cb98065e0286</testCaseGuid>
+</TestCaseEntity>

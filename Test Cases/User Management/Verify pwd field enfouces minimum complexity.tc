@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the password field enforces minimum complexity/length requirements on user creation</description>
+   <name>Verify pwd field enfouces minimum complexity</name>
+   <tag>TC-054</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cfa65756-b0ae-445b-a412-1d2efadf7837</testCaseGuid>
+</TestCaseEntity>

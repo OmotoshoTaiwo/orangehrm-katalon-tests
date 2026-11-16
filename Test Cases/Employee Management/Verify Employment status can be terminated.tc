@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify an employee's status change is reflected correctly in the employee list</description>
+   <name>Verify Employment status can be terminated</name>
+   <tag>TC-031</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>19c6dc4a-6a42-41fa-b856-6c430a301e97</testCaseGuid>
+</TestCaseEntity>

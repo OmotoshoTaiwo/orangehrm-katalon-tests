@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save_1</name>
+   <tag></tag>
+   <elementGuidId>469ffc07-f4cf-474b-8ccb-f627ad7d5d8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--secondary ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button ') and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-left-space ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--medium ') and (@type = 'submit') and (@data-v-10d463b7 = '') and (@data-v-6653c066 = '')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.oxd-button--secondary.oxd-button.orangehrm-left-space.oxd-button--medium[type=&quot;submit&quot;][data-v-10d463b7=&quot;&quot;][data-v-6653c066=&quot;&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b487211a-2fa8-4400-98e5-341202917db4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>185549e5-7d46-4f28-9e3d-9acafdd45983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space</value>
+      <webElementGuid>22650d97-5498-4315-bc2f-e207565c43eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save </value>
+      <webElementGuid>58a5b800-ca76-4a99-ae46-0a7cfa3138c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f53d4f38130db2bbf8272603b2bec301</value>
+      <webElementGuid>af04c8a7-5c41-4034-a7f7-bdff69001980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--secondary ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button ') and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-left-space ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--medium ') and (@type = 'submit') and (@data-v-10d463b7 = '') and (@data-v-6653c066 = '')]</value>
+      <webElementGuid>c8ed55e2-f9d9-4990-b645-031688076325</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--secondary ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button ') and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-left-space ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--medium ') and (@type = 'submit') and (@data-v-10d463b7 = '') and (@data-v-6653c066 = '')]</value>
+      <webElementGuid>c13324e0-8478-4653-b598-ffa4768e2184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Save ' or . = ' Save ')]</value>
+      <webElementGuid>9d8afbd6-5678-4517-b8c4-08c51da3c83d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

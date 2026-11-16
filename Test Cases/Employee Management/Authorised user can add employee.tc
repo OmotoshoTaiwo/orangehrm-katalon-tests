@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify an authorized user can add a new employee with valid mandatory details</description>
+   <name>Authorised user can add employee</name>
+   <tag>TC-018</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7115da0-c779-4a82-a7a2-1a0557973216</testCaseGuid>
+</TestCaseEntity>

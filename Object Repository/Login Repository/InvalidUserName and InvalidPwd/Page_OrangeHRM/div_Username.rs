@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Username</name>
+   <tag></tag>
+   <elementGuidId>5bd063ee-0e1c-47ee-8453-649caae885b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-form-row ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input-group__label-wrapper ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-form-row:nth-child(2) .oxd-input-group__label-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>566457c1-7308-4f97-ac6b-f53069840bc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-input-group__label-wrapper</value>
+      <webElementGuid>3937a534-9c48-4fbd-8482-90f91d7cbcc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>68bf729c-b0ab-466a-9017-f2ea4a006cfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bddb4e16356b3ff74771806a7fb731d2</value>
+      <webElementGuid>d126af43-466b-4975-ae93-69b5c0000d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-form-row ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input-group__label-wrapper ')]</value>
+      <webElementGuid>28393dbb-ae7e-4611-aef2-44a6d9109edd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-form-row ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input-group__label-wrapper ')]</value>
+      <webElementGuid>fdbe5b15-85cf-4379-9b67-9a4b0877fe7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Username' or . = 'Username')]</value>
+      <webElementGuid>ee5fc6f2-a9e7-495b-99fb-7cfef2822646</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

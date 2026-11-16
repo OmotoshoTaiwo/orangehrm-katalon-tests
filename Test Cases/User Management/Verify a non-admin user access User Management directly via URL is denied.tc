@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify a non-admin user attempting to access User Management directly via URL is denied</description>
+   <name>Verify a non-admin user access User Management directly via URL is denied</name>
+   <tag>TC-055</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c858f315-1faf-4204-8577-ad52101a11a8</testCaseGuid>
+</TestCaseEntity>

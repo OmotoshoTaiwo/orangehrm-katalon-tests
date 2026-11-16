@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Today</name>
+   <tag></tag>
+   <elementGuidId>2aea2af8-1843-48fe-abd8-d1d04683a981</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --today ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-date-input-link ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.--today.oxd-date-input-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e59a5124-66d6-4775-9d47-a28a64856380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-date-input-link --today</value>
+      <webElementGuid>c475dbb4-03cc-4c0d-b2d3-4e144f46da07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Today</value>
+      <webElementGuid>f3a4022e-5f38-4cfd-bf3b-4bd27d293168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-09d15409a660aaf0e1af7a5a2a45de6c</value>
+      <webElementGuid>d2bf2cb7-bf37-421e-a9f3-7f0e50fd8f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --today ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-date-input-link ')]</value>
+      <webElementGuid>77ac430d-80ea-4805-a150-2b9dc85ac328</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --today ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-date-input-link ')]</value>
+      <webElementGuid>75879b8f-1f02-467e-a001-9235128d0b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Today' or . = 'Today')]</value>
+      <webElementGuid>37bd164e-4de3-4d4e-a0f8-87a52d1766c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

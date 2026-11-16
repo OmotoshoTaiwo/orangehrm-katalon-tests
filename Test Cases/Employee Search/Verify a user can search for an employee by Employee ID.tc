@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify a user can search for an employee by Employee ID</description>
+   <name>Verify a user can search for an employee by Employee ID</name>
+   <tag>TC-034</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1760103-ebe8-4130-8d8c-c2f39e9bb5ad</testCaseGuid>
+</TestCaseEntity>

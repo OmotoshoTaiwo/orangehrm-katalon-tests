@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify a submitted leave request appears correctly in the Leave list with a 'Pending Approval' status</description>
+   <name>Verify submitted leave appear correctly</name>
+   <tag>TC-45</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb3252d7-3a5c-4a8a-aa35-d2798d6a9e5c</testCaseGuid>
+</TestCaseEntity>

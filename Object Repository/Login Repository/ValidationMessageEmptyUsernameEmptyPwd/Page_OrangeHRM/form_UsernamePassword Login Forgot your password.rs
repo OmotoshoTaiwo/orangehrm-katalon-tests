@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_UsernamePassword Login Forgot your password</name>
+   <tag></tag>
+   <elementGuidId>9d5398da-5f76-4386-8a8d-c6ec33807efa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-form ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>630651d2-da3b-427b-b5ae-450f5198ba67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-form</value>
+      <webElementGuid>405c6406-aa16-451e-88d9-d9931a013c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>method</name>
+      <type>Main</type>
+      <value>post</value>
+      <webElementGuid>a6bb2c34-6eab-4004-941e-19bd4ab09646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>action</name>
+      <type>Main</type>
+      <value>/web/index.php/auth/validate</value>
+      <webElementGuid>9cea0027-1462-47bd-b053-2e2d189b5130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UsernamePassword Login Forgot your password? </value>
+      <webElementGuid>b5b224ac-b343-4a1a-be5f-cabac3664f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b215df8ccb0a7e598106d1dc14bc33c8</value>
+      <webElementGuid>a36269b7-79c6-4871-b84f-9e2c3d32258c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-form ')]</value>
+      <webElementGuid>962d7de9-ae3a-4362-87eb-0a8178791902</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-form ')]</value>
+      <webElementGuid>cdf514ec-409e-41dc-bd47-af132d31b07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'UsernamePassword Login Forgot your password? ' or . = 'UsernamePassword Login Forgot your password? ')]</value>
+      <webElementGuid>dc83e751-c340-4e08-8d92-e64a4eadb2be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

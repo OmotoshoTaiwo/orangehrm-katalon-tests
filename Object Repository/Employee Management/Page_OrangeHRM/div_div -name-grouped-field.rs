@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_div -name-grouped-field</name>
+   <tag></tag>
+   <elementGuidId>1ba478a2-03b8-452c-8b09-8798cb650e6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --name-grouped-field ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.--name-grouped-field</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb3086da-121e-4f9d-b6e1-43c40e81b660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>--name-grouped-field</value>
+      <webElementGuid>0e7c2c93-d5a7-4af6-a675-c2523cd154b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3c5d2591e40155c3ee0c7f35adcf6efd</value>
+      <webElementGuid>0e250612-84bf-42b3-afc7-4ea64ca50102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --name-grouped-field ')]</value>
+      <webElementGuid>d89bb046-fd51-48d6-ab45-635820cff06a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --name-grouped-field ')]</value>
+      <webElementGuid>e90c817a-ab61-418e-86a9-51546fd740f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

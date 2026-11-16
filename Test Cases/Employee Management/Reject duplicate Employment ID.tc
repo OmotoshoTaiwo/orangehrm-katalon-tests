@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the system rejects an Employee ID that already exists</description>
+   <name>Reject duplicate Employment ID</name>
+   <tag>TC_21</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3676a6e-8693-46b3-83de-399c2d0c95c3</testCaseGuid>
+</TestCaseEntity>

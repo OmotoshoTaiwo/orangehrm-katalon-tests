@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Apply</name>
+   <tag></tag>
+   <elementGuidId>104da658-00d8-4870-be37-5f5d698d75d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and (position() = 1)]//*[@href = '#']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-topbar-body-nav-tab:nth-child(1) [href=&quot;\#&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6a0e9b9a-1ad8-4207-a6e1-34b19a2b95d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-topbar-body-nav-tab-item</value>
+      <webElementGuid>915d5fe9-0066-40e0-8d2e-811734b6f434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>113bc970-7639-47ea-90a5-3007274c0622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply</value>
+      <webElementGuid>0a83bcc9-37a9-4828-8b96-2d4985f9509d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-588415b269535118293fbe6bacad6ba4</value>
+      <webElementGuid>a6bc7ba4-098f-4b2e-aa81-09ed259cc25b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and (position() = 1)]//*[@href = '#']</value>
+      <webElementGuid>9d6c7246-1fa0-48f3-a4e6-b8e1705a7da1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and (position() = 1)]//*[@href = '#']</value>
+      <webElementGuid>b3b47462-b60e-44a6-a307-4e32bafeb089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Apply' or . = 'Apply')]</value>
+      <webElementGuid>9e507abe-0c8f-4cb0-897f-97e34b8b5efd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

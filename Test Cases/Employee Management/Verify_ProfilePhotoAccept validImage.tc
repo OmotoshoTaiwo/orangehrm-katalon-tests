@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the profile picture upload only accepts valid image file types</description>
+   <name>Verify_ProfilePhotoAccept validImage</name>
+   <tag>TC-031</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>29c37910-5ca5-4604-9437-a022e1fc8efa</testCaseGuid>
+</TestCaseEntity>

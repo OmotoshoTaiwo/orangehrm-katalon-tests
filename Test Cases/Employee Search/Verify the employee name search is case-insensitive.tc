@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the employee name search is case-insensitive</description>
+   <name>Verify the employee name search is case-insensitive</name>
+   <tag>TC-038</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ce64d84-6412-4b4f-ac8a-feaa59ae2dfa</testCaseGuid>
+</TestCaseEntity>

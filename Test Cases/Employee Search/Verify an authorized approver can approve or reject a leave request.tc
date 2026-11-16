@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify an authorized approver can approve or reject a leave request</description>
+   <name>Verify an authorized approver can approve or reject a leave request</name>
+   <tag>TC-047</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>07a46612-4cea-466d-b7b6-621d5b989576</testCaseGuid>
+</TestCaseEntity>

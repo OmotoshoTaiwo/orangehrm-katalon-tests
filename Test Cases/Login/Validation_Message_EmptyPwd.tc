@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify validation message displays when the password field is left empty</description>
+   <name>Validation_Message_EmptyPwd</name>
+   <tag>TC_006</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>275340fe-4e90-4553-b868-1bfd7ab6b3a0</testCaseGuid>
+</TestCaseEntity>

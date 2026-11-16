@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify an administrator can search for a specific system user by username</description>
+   <name>Verify an administrator can search for a specific system user by username</name>
+   <tag>TC-053</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82747d7a-cea6-48b6-9f67-6cf94d47e725</testCaseGuid>
+</TestCaseEntity>

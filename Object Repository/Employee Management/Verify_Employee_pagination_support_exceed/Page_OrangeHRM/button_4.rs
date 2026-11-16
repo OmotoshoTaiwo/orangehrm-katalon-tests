@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_4</name>
+   <tag></tag>
+   <elementGuidId>a971fd20-fc6f-40c9-99ab-0f27be61d136</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@data-v-bf7c2405 = '') and (@data-v-92137808 = '') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-pagination-page-item--page ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-v-bf7c2405=&quot;&quot;][data-v-92137808=&quot;&quot;]:nth-child(5) .oxd-pagination-page-item--page</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e6537cd5-2bb6-42fe-9433-7de7c4fa1d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fa876a4d-8f26-43bb-be84-7bf901395983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-pagination-page-item oxd-pagination-page-item--page oxd-pagination-page-item--page-selected</value>
+      <webElementGuid>2568d45e-9195-4164-af4e-8ee1768bee6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>139d990c-d32e-4881-90fd-7388c8703fe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e8b32252ff694978d3d07387b5813e60</value>
+      <webElementGuid>600c07bf-d4cb-47ba-afa8-bd0c1b341926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@data-v-bf7c2405 = '') and (@data-v-92137808 = '') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-pagination-page-item--page ')]</value>
+      <webElementGuid>a9e1ac1c-6573-4556-8d51-e9834eb51eba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@data-v-bf7c2405 = '') and (@data-v-92137808 = '') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-pagination-page-item--page ')]</value>
+      <webElementGuid>564d33b0-fafb-4829-8a74-0141607444bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '4' or . = '4')]</value>
+      <webElementGuid>e48dd671-9fef-4cc2-8356-2fa707c24750</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

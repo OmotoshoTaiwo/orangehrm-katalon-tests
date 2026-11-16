@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_oxd-input oxd-input-active oxd-input-er</name>
+   <tag></tag>
+   <elementGuidId>54edf259-f414-49ec-bd83-50c5f56f2621</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input--error ') and (@type = 'password')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-input.oxd-input--error[type=&quot;password&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bada8086-21e0-4b97-a79f-03aebd41fea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-input oxd-input--active oxd-input--error</value>
+      <webElementGuid>db4acc82-d55d-4f73-bfc2-7b828f174c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>092fdaee-169f-4208-a5d0-5e8890fac1fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>de1b9ae7-61d5-41c5-86c5-eeb6990668c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9e5646ec51df6dff8ec20f3513c897c0</value>
+      <webElementGuid>a5b2c119-aad8-4f23-afc0-32e04f5569c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input--error ') and (@type = 'password')]</value>
+      <webElementGuid>f155060d-e2e1-4962-8377-901aa60f967f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input--error ') and (@type = 'password')]</value>
+      <webElementGuid>6d2228f6-f983-4c39-8507-f89954cca7e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password']</value>
+      <webElementGuid>8d021e23-11a7-4a6f-8b17-48295c0cfd8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
